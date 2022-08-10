@@ -1,0 +1,24 @@
+.fullmenu-active {
+    flex: 0 0 0px !important;
+    max-width: 0px !important;
+    min-width: 0px !important;
+    width: 0px !important;
+}
+
+/* .fullmenu-inactive {
+    flex: 0 0 80px !important;
+    max-width: 80px !important;
+    min-width: 80px !important;
+    width: 80px !important;
+} */
+
+.fullmenu-inactive {
+    flex: 0 0 60px !important;
+    max-width: 60px !important;
+    min-width: 60px !important;
+    width:60px !important;
+}
+
+.cardPadding{
+    padding-left: 0px !important;
+}

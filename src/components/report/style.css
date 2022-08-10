@@ -1,0 +1,13 @@
+
+.ant-modal-header-custom{
+    padding-bottom: 0px !important;
+}
+
+
+
+div.ant-modal-header-custom > div.ant-modal-content > div.ant-modal-header {
+    padding-bottom: 0px !important;
+    padding-top: 15px !important;
+    background-color: #F2F3F6 !important;
+}
+
